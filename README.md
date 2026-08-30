@@ -1,34 +1,236 @@
-<img src="background.png" width="100%" height="200">
+<div align="center">
 
+# 👨‍💻 NEERAJ KUMAR
 
-<h1 align="center">Hi 👋, I'm Neeraj kumar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+### `Full Stack Developer` • `MCA Student` • `Tech Enthusiast`
 
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/200.webp?cid=790b7611h2rdzvpg9w5y4pwtz876aznbc1v5420p2v7j9nf7&ep=v1_gifs_search&rid=200.webp&ct=g">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;Turning+Ideas+Into+Code;Learning+DSA+%26+Backend+Development;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-with-neeraj&label=Profile%20views&color=0e75b6&style=flat" alt="code-with-neeraj" /> </p>
-
-- 🌱 I’m currently learning **DSA**
-
-- 👨‍💻 All of my projects are available at [https://my-portfolio-xi.netlify.app/]
-
-- 📫 How to reach me **neerajkr145518@gmail.com**
-
-- ⚡ Fun fact **I am funny😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/neeraj kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neeraj kumar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:29642427" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:29642427" height="30" width="40" /></a>
-<a href="https://fb.com/neeraj kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="neeraj kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/neeraj_kumar-2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neeraj_kumar-2002" height="30" width="40" /></a>
+<p>
+<a href="https://my-portfolio-xi.netlify.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-00F7FF?style=for-the-badge&logoColor=black" />
+</a>
+<a href="https://github.com/neerajk-dev">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/neeraj-kumar/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:neerajkr145518@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="[https://getbootstrap.com](https://getbootstrap.com/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=neerajk-dev&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajk-dev&show_icons=true&locale=en&layout=compact" alt="neerajk-dev" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neerajk-dev&show_icons=true&locale=en" alt="neerajk-dev" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neerajk-dev&" alt="neerajk-dev" /></p>
+## 🧑‍💻 `whoami`
+
+```javascript
+const neeraj = {
+    name: "Neeraj Kumar",
+    location: "India 🇮🇳",
+    role: "Full Stack Developer",
+    education: "MCA Student",
+
+    currentlyLearning: [
+        "Data Structures & Algorithms",
+        "Backend Development",
+        "System Design"
+    ],
+
+    interests: [
+        "Web Development",
+        "Problem Solving",
+        "Building Real-World Projects"
+    ],
+
+    mindset: "Learn → Build → Break → Fix → Repeat 🚀"
+};
+```
+
+---
+
+## ⚡ Tech Arsenal
+
+### `Frontend`
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,bootstrap" />
+</p>
+
+### `Backend`
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java" />
+</p>
+
+### `Database`
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### `Languages`
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
+</p>
+
+### `Tools`
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+---
+
+## 🚀 What I Build
+
+<div align="center">
+
+|  💻 Development |   🔐 Backend   |   🗄️ Database  | 🚀 Deployment |
+| :-------------: | :------------: | :-------------: | :-----------: |
+|    React Apps   |    REST APIs   |     MongoDB     |     Render    |
+|  Responsive UI  | Authentication |      MySQL      |     Vercel    |
+|   Tailwind UI   |       JWT      |     Mongoose    |    Netlify    |
+| Full Stack Apps |  Payment APIs  | Database Design |     GitHub    |
+
+</div>
+
+---
+
+# 🏥 Featured Project
+
+<div align="center">
+
+## **HOSPITALO**
+
+### `Smart Hospital & Doctor Appointment Platform`
+
+</div>
+
+Hospitalo is a full-stack healthcare platform designed to simplify the process of finding doctors, booking appointments and managing healthcare services.
+
+### ✨ Highlights
+
+```text
+👤  Patient Management
+👨‍⚕️ Doctor Management
+🛡️  Admin Dashboard
+📅  Appointment Booking
+💳  Online Payments
+🔐  JWT Authentication
+💬  AI Chatbot
+📧  Email Notifications
+🗺️  Nearby Pharmacy Finder
+⚡ Real-Time Features
+📊  Analytics Dashboard
+☁️  Cloudinary Integration
+```
+
+<div align="center">
+
+<a href="https://hospitalo-yjlj.onrender.com/">
+<img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00C853?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/neerajk-dev/HOSPITALO">
+<img src="https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Dashboard
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=neerajk-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajk-dev&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
+
+</div>
+
+---
+
+## 🔥 Coding Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=neerajk-dev&theme=tokyonight&hide_border=true" width="70%" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=neerajk-dev&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</div>
+
+---
+
+## 🧠 Currently Working On
+
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│  🧩 Data Structures & Algorithms             │
+│  ⚛️  Advanced React                          │
+│  🟢 Node.js & Express                        │
+│  🔐 Backend Security                          │
+│  🏗️  Building Production Projects            │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+---
+
+## 🎯 2026 Goals
+
+* [x] Build a complete Full Stack project
+* [x] Deploy real-world applications
+* [x] Work with MongoDB & MySQL
+* [x] Build REST APIs
+* [ ] Master Data Structures & Algorithms
+* [ ] Improve System Design
+* [ ] Contribute to Open Source
+* [ ] Become a better Software Developer 🚀
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/neeraj-kumar/">
+<img src="https://img.shields.io/badge/LinkedIn-Neeraj%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://my-portfolio-xi.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00F7FF?style=for-the-badge" />
+</a>
+
+<a href="mailto:neerajkr145518@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-neerajkr145518-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 `Code. Create. Learn. Repeat.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer" width="100%" />
+
+</div>
