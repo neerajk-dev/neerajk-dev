@@ -150,9 +150,13 @@ Hospitalo is a full-stack healthcare platform designed to simplify the process o
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=neerajk-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="49%" />
+<a href="https://github.com/neerajk-dev">
+<img src="https://github-readme-stats.vercel.app/api?username=neerajk-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" width="48%" alt="Neeraj's GitHub Stats"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajk-dev&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
+<a href="https://github.com/neerajk-dev">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajk-dev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="40%" alt="Top Languages"/>
+</a>
 
 </div>
 
@@ -172,7 +176,7 @@ Hospitalo is a full-stack healthcare platform designed to simplify the process o
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neerajk-dev&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=neerajk-dev&theme=tokyo-night&hide_border=true&area=true&custom_title=Neeraj%27s%20GitHub%20Activity" width="95%" alt="GitHub Contribution Graph"/>
 
 </div>
 
