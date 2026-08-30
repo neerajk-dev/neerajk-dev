@@ -187,11 +187,11 @@ Hospitalo is a full-stack healthcare platform designed to simplify the process o
 ```text
 ┌─────────────────────────────────────────────┐
 │                                             │
-│  🧩 Data Structures & Algorithms             │
-│  ⚛️  Advanced React                          │
-│  🟢 Node.js & Express                        │
-│  🔐 Backend Security                          │
-│  🏗️  Building Production Projects            │
+│  🧩 Data Structures & Algorithms            │
+│  ⚛️  Advanced React                         │
+│  🟢 Node.js & Express                       │
+│  🔐 Backend Security                        │
+│  🏗️  Building Production Projects           │
 │                                             │
 └─────────────────────────────────────────────┘
 ```
